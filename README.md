@@ -1,4 +1,3 @@
-<h1 style="color:green; background-color:white; font-weight:bold; width:150px; text-align:center">Aircnc</h1>
 
 # Aircnc
 
